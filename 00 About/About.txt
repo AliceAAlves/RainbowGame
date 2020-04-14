@@ -1,0 +1,10 @@
+Creator: Alice Alves
+
+About: Developed as coursework for module Graphics 1, during the 2nd year of course Computer Graphics, Imaging and Multimedia at University of East Anglia. Developed in C++ using OpenGL.
+
+Controls:
+* right/left arrow key - move right/left
+* up arrow keys - jump
+* space - pause/unpause
+
+Objective of the game is to collect all 7 colours and reach the portal. Coming in contact with enemies or jumping off screen will make player lose a life. If there are no more lives left it will be game over. Enemies can be defeated by jumping on top of them. Certain elements of the game won't work until a specific colour has been collected.
